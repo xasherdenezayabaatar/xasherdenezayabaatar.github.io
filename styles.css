@@ -1,9 +1,48 @@
 h1 {
   color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
 }
-body {
-  background-image: url('Healer.webp');
+body{
+  background-color: black;
 }
-p {
+.Pcenter {
   color: white;
+  text-align: center;
+  font-family: Comic Relief, sans-serif;
+  text-shadow: 5pt;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+#p1 {
+  background-image: url('Healer.webp');
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 1pt;
+  margin: 10pt;
+}
+.pageName {
+  color: white;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+button:hover {
+  color: white;
+}
+footer {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #805c42;
+  text-align: center;
+  z-index: 1000;
+}
+#me_yt{
+  width: 100px;
+  transition-duration: 200ms;
+}
+#me_yt:hover {
+  width: 105px;
+  transition-duration: 150ms;
 }
