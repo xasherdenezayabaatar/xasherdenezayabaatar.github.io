@@ -1,0 +1,1 @@
+console.log("Hello from script.js!\nCan you see me? Am I on the local server?");
