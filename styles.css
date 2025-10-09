@@ -6,6 +6,8 @@ h1 {
 body{
   background-image: url('bg_placeholder.jpg');
   background-size: cover;
+  background-attachment: fixed;
+  background-position-x: center;
 }
 .Pcenter {
   color: white;
@@ -13,6 +15,7 @@ body{
   font-family: Comic Relief, sans-serif;
   text-shadow: 5pt;
   background-color: rgba(0, 0, 0, 0.5);
+  padding: 0.3cm;
 }
 #p1 {
   background-image: url('Healer.webp');
@@ -26,16 +29,13 @@ body{
   text-align: center;
   font-family: 'Courier New', Courier, monospace;
 }
-button:hover {
-  color: white;
-}
 footer {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   position: fixed;
   bottom: 0;
   left: 0;
   width: 100%;
-  background-color: #805c42;
+  background-color: #223161;
   text-align: center;
   z-index: 1000;
 }
@@ -57,11 +57,20 @@ header {
 button {
     background-color: white;
     border-radius: 0.2cm;
+    padding: 0.2cm;
+    font-size: 0.4cm;
     
 }
 button:hover {
-    background-color: #6b66cb;
+    background-color: #585c81;
 }
 button:active {
     background-color: #1816c0;
+}
+.images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5cm;
+    flex-wrap: wrap;
 }
