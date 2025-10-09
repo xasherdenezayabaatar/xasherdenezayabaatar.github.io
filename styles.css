@@ -9,6 +9,7 @@ body{
   background-size: cover;
   background-attachment: fixed;
   background-position-x: center;
+  margin-top: 0;
 }
 .Pcenter {
   color: white;
@@ -52,8 +53,6 @@ footer {
 header {
     background-color: #434280;
     mix-blend-mode: screen;
-    padding-bottom: 0.3cm;
-    padding-top: 0.05cm;
 }
 button {
     background-color: white;
@@ -70,10 +69,16 @@ button:hover {
 button:active {
     background-color: #1816c0;
 }
-.images {
+.gallery {
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 0.5cm;
     flex-wrap: wrap;
+}
+img {
+    box-shadow: 5px 5px 10px #10194aa8;
+}
+.img-light {
+    box-shadow: none;
 }
