@@ -51,6 +51,8 @@ footer {
 header {
     background-color: #434280;
     mix-blend-mode: screen;
+    padding-bottom: 0.3cm;
+    padding-top: 0.05cm;
 }
 button {
     background-color: white;
