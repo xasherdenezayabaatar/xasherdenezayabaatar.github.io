@@ -60,7 +60,6 @@ button {
     padding: 0.2cm;
     font-size: 0.4cm;
     transition-duration: 150ms;
-    
 }
 button:hover {
     border-radius: 0;
