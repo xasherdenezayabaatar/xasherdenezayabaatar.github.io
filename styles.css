@@ -4,7 +4,8 @@ h1 {
   text-align: center;
 }
 body{
-  background-color: black;
+  background-image: url('bg_placeholder.jpg');
+  background-size: cover;
 }
 .Pcenter {
   color: white;
@@ -45,4 +46,20 @@ footer {
 #me_yt:hover {
   width: 105px;
   transition-duration: 150ms;
+}
+
+header {
+    background-color: #434280;
+    mix-blend-mode: screen;
+}
+button {
+    background-color: white;
+    border-radius: 0.2cm;
+    
+}
+button:hover {
+    background-color: #6b66cb;
+}
+button:active {
+    background-color: #1816c0;
 }

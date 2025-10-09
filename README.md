@@ -51,10 +51,7 @@ Include **3–5 representative screenshots** showing key pages or sections.
 
 ## 📸 Media Credits
 List all external resources you used:  
-- Images: [source or photographer name + link]  
-- Icons: [source]  
-- Frameworks / Themes: [e.g., BootstrapMade, TailwindUI, etc.]  
-- Fonts: [e.g., Google Fonts – “Poppins”]  
+- Fonts: Google Fonts – “Comic Relief”
 
 ---
 
