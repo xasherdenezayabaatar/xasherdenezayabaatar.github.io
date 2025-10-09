@@ -68,7 +68,7 @@ If you added any bonus features, describe them here:
 ---
 
 ## ✅ Self-Check Summary
-- [x] At least 3 interlinked pages or sections  
+- [y] At least 3 interlinked pages or sections  
 - [x] One-sentence homepage theme/value statement  
 - [x] Clear navigation and layout  
 - [x] Consistent visual design (color/type/spacing)  
