@@ -82,3 +82,13 @@ img {
 .img-light {
     box-shadow: none;
 }
+.img-clickable {
+    cursor: pointer;
+    filter: brightness(100%);
+    transition-duration: 150ms;
+}
+.img-clickable:hover {
+    filter: brightness(130%);
+    rotate: -1deg;
+    transition-duration: 200ms;
+}
