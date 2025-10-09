@@ -56,13 +56,16 @@ header {
 }
 button {
     background-color: white;
-    border-radius: 0.2cm;
+    border-radius: 0.3cm;
     padding: 0.2cm;
     font-size: 0.4cm;
+    transition-duration: 150ms;
     
 }
 button:hover {
-    background-color: #585c81;
+    border-radius: 0;
+    transition-duration: 200ms;
+    background-color: rgb(190, 190, 255);
 }
 button:active {
     background-color: #1816c0;
