@@ -107,3 +107,28 @@ img {
     rotate: -1deg;
     transition-duration: 200ms;
 }
+
+/* Link styles */
+a:link {
+  color: rgb(118, 134, 255);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(191, 131, 255);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(117, 67, 255);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: rgb(255, 50, 200);
+  background-color: transparent;
+  text-decoration: underline;
+}
