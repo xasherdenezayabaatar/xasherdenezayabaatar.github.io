@@ -78,9 +78,12 @@ button:active {
 }
 img {
     box-shadow: 5px 5px 10px #10194aa8;
+    border: 0.15cm solid white;
+    border-radius: 0.15cm;
 }
 .img-light {
     box-shadow: none;
+    border: none;
 }
 .img-clickable {
     cursor: pointer;
@@ -89,6 +92,18 @@ img {
 }
 .img-clickable:hover {
     filter: brightness(130%);
+    rotate: -1deg;
+    transition-duration: 200ms;
+}
+#godotlogo {
+    height: 3cm;
+    border: none;
+    cursor: pointer;
+    filter: brightness(110%);
+    box-shadow: none;
+}
+#godotlogo:hover {
+    filter: brightness(140%);
     rotate: -1deg;
     transition-duration: 200ms;
 }
