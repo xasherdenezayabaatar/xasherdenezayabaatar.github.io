@@ -10,6 +10,7 @@ body{
   background-attachment: fixed;
   background-position-x: center;
   margin-top: 0;
+  margin-bottom: 0;
 }
 .Pcenter {
   color: white;
@@ -42,11 +43,11 @@ footer {
   z-index: 1000;
 }
 #me_yt{
-  width: 100px;
+  height: 2cm;
   transition-duration: 200ms;
 }
 #me_yt:hover {
-  width: 105px;
+  height: 2.1cm;
   transition-duration: 150ms;
 }
 
