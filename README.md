@@ -39,7 +39,7 @@ All pages are connected via a **header with buttons that redirect to each page**
 ## 🖼️ Screenshots
 Include **3–5 representative screenshots** showing key pages or sections.  
 
-| Screenshot 1 | Screenshot 2 | Screenshot 3 |
+| Home Page | Project Page | About Page |
 |---------------|---------------|---------------|
 | ![Home](https://xasherdenezayabaatar.github.io/screenshots/homepage.png) | ![Projects](https://xasherdenezayabaatar.github.io/screenshots/projectpage.png) | ![About](https://xasherdenezayabaatar.github.io/screenshots/aboutpage.png) |
 
