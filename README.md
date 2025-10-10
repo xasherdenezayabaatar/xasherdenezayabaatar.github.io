@@ -65,7 +65,7 @@ If you added any bonus features, describe them here:
 - [x] One-sentence homepage theme/value statement  
 - [x] Clear navigation and layout  
 - [x] Consistent visual design (color/type/spacing)  
-- [X] Screenshots included  
+- [x] Screenshots included  
 - [x] Credits listed  
 
 ---
