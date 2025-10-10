@@ -43,7 +43,7 @@ Include **3–5 representative screenshots** showing key pages or sections.
 
 | Screenshot 1 | Screenshot 2 | Screenshot 3 |
 |---------------|---------------|---------------|
-| ![Home](screenshots/home.png) | ![Projects](screenshots/projects.png) | ![About](screenshots/about.png) |
+| ![Home](https://xasherdenezayabaatar/screenshots/homepage.png) | ![Projects](screenshots/projects.png) | ![About](screenshots/about.png) |
 
 *(Replace with your own file names and add more rows if needed.)*
 
