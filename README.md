@@ -43,7 +43,7 @@ Include **3–5 representative screenshots** showing key pages or sections.
 
 | Screenshot 1 | Screenshot 2 | Screenshot 3 |
 |---------------|---------------|---------------|
-| ![Home](https://xasherdenezayabaatar/screenshots/homepage.png) | ![Projects](screenshots/projects.png) | ![About](screenshots/about.png) |
+| ![Home](https://xasherdenezayabaatar.github.io/screenshots/homepage.png) | ![Projects](https://xasherdenezayabaatar.github.io/screenshots/projectpage.png) | ![About](https://xasherdenezayabaatar.github.io/screenshots/aboutpage.png) |
 
 *(Replace with your own file names and add more rows if needed.)*
 
@@ -69,7 +69,7 @@ If you added any bonus features, describe them here:
 - [x] One-sentence homepage theme/value statement  
 - [x] Clear navigation and layout  
 - [x] Consistent visual design (color/type/spacing)  
-- [ ] Screenshots included  
+- [X] Screenshots included  
 - [x] Credits listed  
 
 ---
