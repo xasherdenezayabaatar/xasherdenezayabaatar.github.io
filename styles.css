@@ -6,6 +6,7 @@ h1 {
 }
 body{
   background-image: url('bg_placeholder.jpg');
+  background-color: #223161;
   background-size: cover;
   background-attachment: fixed;
   background-position-x: center;
